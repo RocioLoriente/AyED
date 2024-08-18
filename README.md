@@ -1,2 +1,4 @@
 # AyED
-Algoritmos y Estructura de Datos
+Nombre: Rocío Victoria
+Apellido: Loriente
+Código de comisión: K1043
